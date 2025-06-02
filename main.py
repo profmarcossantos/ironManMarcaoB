@@ -1,6 +1,7 @@
 import pygame
 import random
 from recursos.basicos import limparTela, aguarde
+print("Olá Mundo!")
 pygame.init()
 tamanho = (800,600)
 tela = pygame.display.set_mode(tamanho)

@@ -5,3 +5,6 @@ def limparTela():
     
 def aguarde(segundos):
     time.sleep(segundos)
+
+def DigaOla():
+    print("Olá mundo!")
